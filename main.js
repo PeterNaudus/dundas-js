@@ -1,3 +1,5 @@
+export Enrich;
+
 function Table(dundas_table_obj) {
   /*
    * Helper functions for tables

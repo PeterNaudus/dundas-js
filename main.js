@@ -1,5 +1,7 @@
 export Enrich;
 
+console.log('Dundas-JS version: 0.01')
+
 function Table(dundas_table_obj) {
   /*
    * Helper functions for tables
